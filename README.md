@@ -48,9 +48,9 @@
 <br/>
 
 ## 📨 Connect with me
-<p align="left">
-<a href="https://twitter.com/dillmanncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dillmanncode" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/enzo-facundo-dillmann-960233187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo facundo dillmann" height="30" width="40" /></a>
+<p align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dillmanncode1999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/enzo-facundo-dillmann-960233187/)
 </p>
 
 <br/>
