@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone!🙌 <br/> I'm Enzo Dillmann</h1>
 <h3 align="center">A fullstack dev from Buenos Aires 🇦🇷</h3>
-
+[banner-ed.jpg](https://postimg.cc/R3yTkkTc)
 <br/>
 
 ## ☕ About me
