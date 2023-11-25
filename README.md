@@ -13,15 +13,15 @@
 
 ## 💻 Languages and Tools
 <div align="center"> 
-<h3>Basics<h3/>
+<code>Basics</code>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-<h3>Frontend<h3/>
+<code>Frontend</code>
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass" />
-<h3>Backend<h3/>
+<code>Backend</code>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-<h3>DDBB's<h3/>
+<code>DDBB's</code>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-<h3>Utils<h3/>
+<code>Utils</code>
 <img src="https://skillicons.dev/icons?i=jest,webpack,figma,postman,linux" />
 </div>
 
