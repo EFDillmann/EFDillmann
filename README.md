@@ -4,7 +4,7 @@
 <br/>
 
 ## ☕ About me
-<div color="blue">
+<div background-color="blue">
 
 - I'm currently student and teacher assistant (TA) in SoyHenry bootcamp🚀.
 
