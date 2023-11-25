@@ -21,9 +21,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 <code>DDBB's</code>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-<br/>
-<br/>
-<br/>
 <code>Utils</code>
 <img src="https://skillicons.dev/icons?i=jest,webpack,figma,postman,linux" />
 </div>
