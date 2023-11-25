@@ -48,8 +48,9 @@
 <br/>
 
 ## 📨 Connect with me
-
+<div align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dillmanncode1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/enzo-facundo-dillmann-960233187/)
+</div>
 
 <br/>
