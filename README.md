@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone!🙌 \n I'm Enzo Dillmann</h1>
+<h1 align="center">Hi everyone!🙌 <br/> I'm Enzo Dillmann</h1>
 <h3 align="center">A fullstack dev from Buenos Aires 🇦🇷</h3>
 
 <br/>
