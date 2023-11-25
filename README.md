@@ -10,7 +10,7 @@
 
 - Learning to be a better developer every day. Interested in frontend technologies that improve performance and user experience.
 
-<code/>
+</code>
 
 
   
