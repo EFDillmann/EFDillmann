@@ -6,7 +6,7 @@
 
 ## ☕ About me
 
-- <code>I'm currently student and teacher assistant(TA) in SoyHenry bootcamp🚀.</code>
+- <code>I'm currently a student and teacher assistant(TA) in the SoyHenry bootcamp🚀.</code>
 
 - <code>Learning to be a better developer every day. Interested in frontend technologies that improve performance and user experience.</code>
 
