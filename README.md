@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone!🙌 <br/> I'm Enzo Dillmann</h1>
 <h3 align="center">A fullstack dev from Buenos Aires 🇦🇷</h3>
 
-[banner-ed.jpg](https://postimg.cc/R3yTkkTc)
+[![banner-ed.jpg](https://i.postimg.cc/TwYHDGLH/Agregar-un-t-tulo.jpg)](https://postimg.cc/R3yTkkTc)
 
 <br/>
 
