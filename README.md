@@ -2,7 +2,6 @@
 <h3 align="center">A fullstack dev from Buenos Aires 🇦🇷</h3>
 
 [![banner-ed.jpg](https://i.postimg.cc/TwYHDGLH/Agregar-un-t-tulo.jpg)](https://postimg.cc/R3yTkkTc)
-
 <br/>
 
 ## ☕ About me
