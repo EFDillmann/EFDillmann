@@ -28,13 +28,13 @@
 <code>Basics</code>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 <code>Frontend</code>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
 <code>Backend</code>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,sequelize" />
 <code>DDBB's</code>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 <code>Utils</code>
-<img src="https://skillicons.dev/icons?i=jest,webpack,figma,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,vscode,powershell,postman,figma,jest" />
 </div>
 
 <br/>
