@@ -1,18 +1,32 @@
-<h1 align="center">Hi everyone!🙌 <br/> I'm Enzo Dillmann</h1>
-<h3 align="center">A fullstack dev from Buenos Aires 🇦🇷</h3>
+<h1 align="center">Bienvenidos!🙌 <br/> I'm Enzo Dillmann</h1>
+<h3 align="center">Soy fullstack dev desde Buenos Aires 🇦🇷</h3>
 
 [![banner-ed.jpg](https://i.postimg.cc/TwYHDGLH/Agregar-un-t-tulo.jpg)](https://postimg.cc/R3yTkkTc)
 <br/>
 
-## ☕ About me
+## ☕ Acerca de mi
 
-- <code>I'm currently a student and teacher assistant(TA) in the SoyHenry bootcamp🚀.</code>
-
-- <code>Learning to be a better developer every day. Interested in frontend technologies that improve performance and user experience.</code>
+- <code>
+    Actualmente me encuentro trabajando como desarrollador freelance, lo cual me permite estar en constante contacto con mis clientes para generar la mejor solución a sus necesidades🫂.
+    
+    El stack tecnológico que uso diariamente esta compuesto por:
+    🏛️TypeScript, React.js, Vite, Node.js
+    🧬Redux toolkit, Express.js, mongoose, Sequelize
+    💻PostgreSQL, MongoDB
+    🛠️Cloudinary, Stripe Connect, zod
+    
+    Gracias a mis habilidades comunicativas y capacidad de convencimiento🫱🏻‍🫲🏻 desarrolladas en mis experiencias laborales previas como Customer Success, en mi camino IT tuve el privilegio de estar al frente de grupos tanto académicos como de trabajo, lo cual me permite trabajar de manera ágil y eficaz.
+    
+    Creo firmemente en el aprendizaje continuo📚, por lo que mi curiosidad intelectual me hacen estar en constante mejora dentro de lo que más me apasiona, la tecnología y el desarrollo de soluciones modernas🖥️.
+    
+    👋🏻 Si te interesa trabajar conmigo charlemos!
+    🟢 MD📨 por LinkedIn.
+    🟢 EMAIL📩 dillmanncode1999@gmail.com.
+</code>
 
 <br/>
 
-## 💻 Languages and Tools
+## 💻 Lenguajes y herramientas
 <div align="center"> 
 <code>Basics</code>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
@@ -28,7 +42,7 @@
 
 <br/>
 
-## 📈 Github Profile Stats
+## 📈 Estadísticas de mi perfil de Github
 
 <p align="center">
     <a href="https://github.com/EFDillmann">
@@ -40,9 +54,9 @@
 
 <br/>
 
-## 📨 Connect with me
+## 📨 Contacta conmigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dillmanncode1999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-facundo-dillmann-960233187/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efdillmann/)
 
 <br/>
