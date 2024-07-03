@@ -1,5 +1,5 @@
-<h1 align="center">Bienvenidos!🙌 <br/> I'm Enzo Dillmann</h1>
-<h3 align="center">Soy fullstack dev desde Buenos Aires 🇦🇷</h3>
+<h1 align="center">Bienvenidos!🙌 <br/> Soy Enzo Dillmann</h1>
+<h3 align="center">Fullstack dev desde Buenos Aires 🇦🇷</h3>
 
 [![banner-ed.jpg](https://i.postimg.cc/TwYHDGLH/Agregar-un-t-tulo.jpg)](https://postimg.cc/R3yTkkTc)
 <br/>
