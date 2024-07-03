@@ -19,7 +19,7 @@
 - <code>Creo firmemente en el aprendizaje continuo📚, por lo que mi curiosidad intelectual me hacen estar en constante mejora dentro de lo que más me apasiona, la tecnología y el desarrollo de soluciones modernas🖥️.</code>
     
 - <code>👋🏻 Si te interesa trabajar conmigo charlemos!</code>
-- <code>🟢 MD📨 por LinkedIn.</code>
+- <code>🟢 MD📨 por <a href="https://www.linkedin.com/in/efdillmann/">LinkedIn.</a></code>
 - <code>🟢 EMAIL📩 dillmanncode1999@gmail.com.</code>
 
 
