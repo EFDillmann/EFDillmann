@@ -6,23 +6,24 @@
 
 ## ☕ Acerca de mi
 
-- <code>
-    Actualmente me encuentro trabajando como desarrollador freelance, lo cual me permite estar en constante contacto con mis clientes para generar la mejor solución a sus necesidades🫂.
+- <code> Actualmente me encuentro trabajando como desarrollador freelance, lo cual me permite estar en constante contacto con mis clientes para generar la mejor solución a sus necesidades🫂.</code>
     
+- <code>
     El stack tecnológico que uso diariamente esta compuesto por:
     🏛️TypeScript, React.js, Vite, Node.js
     🧬Redux toolkit, Express.js, mongoose, Sequelize
     💻PostgreSQL, MongoDB
     🛠️Cloudinary, Stripe Connect, zod
+  </code>
     
-    Gracias a mis habilidades comunicativas y capacidad de convencimiento🫱🏻‍🫲🏻 desarrolladas en mis experiencias laborales previas como Customer Success, en mi camino IT tuve el privilegio de estar al frente de grupos tanto académicos como de trabajo, lo cual me permite trabajar de manera ágil y eficaz.
+- <code>Gracias a mis habilidades comunicativas y capacidad de convencimiento🫱🏻‍🫲🏻 desarrolladas en mis experiencias laborales previas como Customer Success, en mi camino IT tuve el privilegio de estar al frente de grupos tanto académicos como de trabajo, lo cual me permite trabajar de manera ágil y eficaz.</code>
     
-    Creo firmemente en el aprendizaje continuo📚, por lo que mi curiosidad intelectual me hacen estar en constante mejora dentro de lo que más me apasiona, la tecnología y el desarrollo de soluciones modernas🖥️.
+- <code>  Creo firmemente en el aprendizaje continuo📚, por lo que mi curiosidad intelectual me hacen estar en constante mejora dentro de lo que más me apasiona, la tecnología y el desarrollo de soluciones modernas🖥️.</code>
     
-    👋🏻 Si te interesa trabajar conmigo charlemos!
+- <code>👋🏻 Si te interesa trabajar conmigo charlemos!
     🟢 MD📨 por LinkedIn.
-    🟢 EMAIL📩 dillmanncode1999@gmail.com.
-</code>
+    🟢 EMAIL📩 dillmanncode1999@gmail.com.</code>
+
 
 <br/>
 
