@@ -12,7 +12,7 @@ El stack tecnológico que uso diariamente esta compuesto por:
 - 🏛️TypeScript, React.js, Vite, Node.js
 - 🧬Redux toolkit, Express.js, mongoose, Sequelize
 - 💻PostgreSQL, MongoDB
-- >🛠️Cloudinary, Stripe Connect, zod
+- 🛠️Cloudinary, Stripe Connect, zod
     
 Gracias a mis habilidades comunicativas y capacidad de convencimiento🫱🏻‍🫲🏻 desarrolladas en mis experiencias laborales previas como Customer Success, en mi camino IT tuve el privilegio de estar al frente de grupos tanto académicos como de trabajo, lo cual me permite trabajar de manera ágil y eficaz.
     
