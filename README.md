@@ -6,19 +6,21 @@
 
 ## ☕ Acerca de mi
 
-Actualmente me encuentro trabajando como desarrollador freelance, lo cual me permite estar en constante contacto con mis clientes para generar la mejor solución a sus necesidades🫂.
+Soy un Desarrollador Full Stack con un fuerte enfoque en Frontend y con background en Customer Success y negociación.
+
+Mi background me permite traducir requisitos de negocio complejos en soluciones técnicas, asegurando una comunicación clara y un enfoque centrado en el usuario durante todo el ciclo de vida del proyecto.
+
+Actualmente trabajo como contractor, colaborando estrechamente con clientes para diseñar y desarrollar soluciones a medida que respondan eficazmente a sus necesidades y objetivos de negocio.
+
+Mi stack tecnológico principal incluye:
+Frontend: TypeScript, React.js, Next.js, React Native, Expo, Redux Toolkit/Zustand, Tailwind CSS.
+Backend: Node.js, Express.js, Sockets.
+Bases de Datos: PostgreSQL, MongoDB.
+Herramientas y Plataformas: Git, Figma, Stripe Connect, Cloudinary, DNS Management, Linux, Supabase.
+
+He tenido la oportunidad de colaborar y coordinar equipos en proyectos académicos y profesionales, lo que refuerza mi capacidad para trabajar de forma ágil y eficaz en entornos colaborativos. Creo en el aprendizaje continuo y mi curiosidad me impulsa a estar constantemente mejorando mis habilidades y explorando nuevas tecnologías para construir soluciones modernas y eficientes.
     
-El stack tecnológico que uso diariamente esta compuesto por:
-- 🏛️TypeScript, React.js, Vite, Node.js
-- 🧬Redux toolkit, Express.js, mongoose, Sequelize
-- 💻PostgreSQL, MongoDB
-- 🛠️Cloudinary, Stripe Connect, zod
-    
-Gracias a mis habilidades comunicativas y capacidad de convencimiento🫱🏻‍🫲🏻 desarrolladas en mis experiencias laborales previas como Customer Success, en mi camino IT tuve el privilegio de estar al frente de grupos tanto académicos como de trabajo, lo cual me permite trabajar de manera ágil y eficaz.
-    
-Creo firmemente en el aprendizaje continuo📚, por lo que mi curiosidad intelectual me hacen estar en constante mejora dentro de lo que más me apasiona, la tecnología y el desarrollo de soluciones modernas🖥️.
-    
-👋🏻 Si te interesa trabajar conmigo charlemos! 🟢MD📨 por <a href="https://www.linkedin.com/in/efdillmann/">LinkedIn.</a> 🟢EMAIL📩 dillmanncode1999@gmail.com.
+👋🏻 Si te interesa trabajar conmigo charlemos! 🟢MD📨 por <a href="https://www.linkedin.com/in/efdillmann/">LinkedIn.</a> 🟢EMAIL📩 enzodillmann.dev@gmail.com.
 
 
 <br/>
